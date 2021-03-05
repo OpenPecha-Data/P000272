@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000272
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྡོམ་པ་གསུམ་གྱི་རྒྱན་ཅེས་བྱ་བའི་བསྟན་བཅོས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-17
   layers:
   - book_title
   - author
+  id: KS-PK-17
 web_metadata:
   title:
     en: An Ornament for the Three Sets of Vows
